@@ -16,7 +16,7 @@
     "ws": "^0.4.31"
   },
   "devDependencies": {
-    "browserify": "^2.36.0",
+    "browserify": "^17.0.0",
     "envify": "~1.2.0",
     "minifyify": "^7.3.0",
     "reactify": "~0.4.0",
