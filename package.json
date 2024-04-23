@@ -18,7 +18,7 @@
   "devDependencies": {
     "browserify": "^2.36.0",
     "envify": "~1.2.0",
-    "minifyify": "^4.4.0",
+    "minifyify": "^11.0.0",
     "reactify": "~0.4.0",
     "statics": "~0.1.0"
   },
